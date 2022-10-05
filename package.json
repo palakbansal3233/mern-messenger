@@ -1,0 +1,22 @@
+{
+  "name": "chit-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palakbansal3233/mern-messenger.git"
+  },
+  "author": "Palak Bansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palakbansal3233/mern-messenger/issues"
+  },
+  "homepage": "https://github.com/palakbansal3233/mern-messenger#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
